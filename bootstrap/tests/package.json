@@ -7,11 +7,11 @@
     "url": "https://github.com/ibmtjbot/tjbot/issues"
   },
   "dependencies": {
-    "readline-sync": "^1.4.7",
+    "readline-sync": "latest",
     "tjbot": "latest"
   },
   "devDependencies": {},
-  "homepage": "https://github.com/ibmtjbot/tjbot#readme",
+  "homepage": "https://github.com/garrapato/tjbot.git',
   "keywords": [
     "TJBot"
   ],
@@ -19,7 +19,7 @@
   "main": "test.led.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibmtjbot/tjbot.git"
+    "url": "git+https://github.com/garrapato/tjbot.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
